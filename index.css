@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+
+.carousel-text{
+position: absolute;
+top: 15%;
+}
