@@ -19,13 +19,8 @@ A responsive restaurant website built using HTML, CSS, and Bootstrap.
 - Images for UI design
 
 ## 📸 Screenshots
-### Home Page
 <img src="images/photo2.jpg" width="500"/>
-
-### Menu Section
 <img src="images/photo3.jpg" width="500"/>
-
-### Gallery Section
 <img src="images/photo4.jpg" width="500"/>
 
 ## ▶️ How to Run
